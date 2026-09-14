@@ -200,6 +200,44 @@ The focus here was therefore on connecting Excel skills with actual RevOps quest
 
 **What is happening? - Why is it happening? - Where is it happening? - What should the business pay attention to?**
 
+# Business Insights
+
+The dashboard was designed to help sales leadership move from reporting to decision-making.
+
+## 1. Revenue Concentration
+
+Revenue by region can highlight markets that are already producing strong results and may justify additional sales or marketing investment.
+
+## 2. Product Performance
+
+Revenue by product helps identify which products are contributing most to the business and where cross-sell or upsell opportunities may exist.
+
+## 3. Rep Performance
+
+Replevel performance can highlight top performers as well as reps who may require additional coaching or pipeline support.
+
+## 4. Pipeline Health
+
+Open pipeline and weighted pipeline provide two different views of future revenue potential.
+
+Open pipeline shows the total opportunity value, while weighted pipeline provides a probability-adjusted view.
+
+## 5. Funnel Risk
+
+Pipeline by stage helps identify whether opportunities are concentrated in early stages or whether sufficient value is progressing toward Proposal and Negotiation.
+
+## 6. Management Action
+
+The dashboard should not be treated as a report that simply describes what happened.
+
+The purpose is to help management identify:
+
+- Where to invest
+- Where pipeline is at risk
+- Which reps may need support
+- Which products are gaining traction
+- Which regions deserve additional attention
+
 
 # Tools
 
